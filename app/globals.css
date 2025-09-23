@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Brand: clean green + white */
+:root {
+  color-scheme: light;
+}
+
+/* MapLibre CSS import here so it's global */
+@import url("https://unpkg.com/maplibre-gl@4.5.0/dist/maplibre-gl.css");
