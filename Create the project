@@ -1,0 +1,11 @@
+# New folder
+mkdir openacre && cd openacre
+
+# Init Next.js (JS for simplicity)
+npm init -y
+npm i next react react-dom
+npm i -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
+# Map + icons
+npm i maplibre-gl lucide-react
