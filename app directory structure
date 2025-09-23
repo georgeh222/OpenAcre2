@@ -1,0 +1,13 @@
+openacre/
+├─ app/
+│  ├─ globals.css
+│  ├─ layout.js
+│  └─ page.js
+├─ components/
+│  └─ OpenAcreApp.js
+├─ public/
+│  └─ favicon.ico  (optional)
+├─ package.json
+├─ next.config.js
+├─ tailwind.config.js
+├─ postcss.config.js
